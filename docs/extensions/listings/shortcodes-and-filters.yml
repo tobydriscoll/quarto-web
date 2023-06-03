@@ -271,3 +271,11 @@
   description: |
       A Quarto filter to run SQL queries interactively from a SQLite database created at render time 
       in html documents and Revealjs presentations.
+
+- name: crossref-listings
+  path: https://github.com/tobydriscoll/crossref-listings
+  author: "[Toby Driscoll](https://github.com/tobydriscoll/)"
+  description: |
+    Filter/template for including auto-generated listings of theorems, definitions, examples, etc. across 
+    all the pages of a book project.
+ 
